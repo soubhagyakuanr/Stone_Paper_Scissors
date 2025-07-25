@@ -15,3 +15,8 @@ h1{
   height: 200px;
   width: 200px;
 }
+
+.choice:hover{
+  opacity: 0.5;
+  cursor: pointer;
+}
