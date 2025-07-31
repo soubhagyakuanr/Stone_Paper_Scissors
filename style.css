@@ -35,3 +35,13 @@ img{
   gap: 3rem;
   margin-top: 5rem;
 }
+
+
+.score-board{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  margin-top: 3rem;
+  gap: 5rem;
+}
